@@ -1,0 +1,17 @@
+streamlit
+pandas
+openpyxl
+
+langchain
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-google-genai
+
+chromadb
+sentence-transformers
+torch
+torchvision
+
+rapidfuzz
+python-dotenv
